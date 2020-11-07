@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772585547233",
+    "firebase_url": "https://bankuinapps.firebaseio.com",
+    "project_id": "bankuinapps",
+    "storage_bucket": "bankuinapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772585547233:android:36878a3d25c3271a825ea0",
+        "android_client_info": {
+          "package_name": "com.example.bankuinapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772585547233-gm5t5ni1qho0ftif921fm598e9gq0jsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bankuinapps",
+            "certificate_hash": "47233c39f0c903353e538b6d91095164d5ea0ce5"
+          }
+        },
+        {
+          "client_id": "772585547233-sv569io894gpoo2cdqa3vsnb13shc8mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWuS6JE4_-md5YiD7zfRbPmn-Kg3zR5ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772585547233-sv569io894gpoo2cdqa3vsnb13shc8mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
